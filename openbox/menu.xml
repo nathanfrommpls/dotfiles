@@ -6,11 +6,11 @@
                 file:///usr/share/openbox/menu.xsd">
 
 <menu id="root-menu" label="Openbox 3">
-  <item label="Terminal emulator">
+  <item label="Terminal">
 <!--    <action name="Execute"><execute>x-terminal-emulator</execute></action> -->
     <action name="Execute"><execute>urxvt</execute></action>
   </item>
-  <item label="Web browser">
+  <item label="Browser">
     <action name="Execute"><execute>x-www-browser</execute></action>
   </item>
   <item label="Emacs">
@@ -20,6 +20,10 @@
   <menu id="/Debian" />
   <separator />
   <menu id="applications-menu" label="Applications" execute="/usr/bin/obamenu"/>
+  <separator />
+  <item label="Mixer">
+    <action name="Execute"><execute>pavucontrol</execute></action>
+  </item>
   <separator />
   <item label="ObConf">
     <action name="Execute"><execute>obconf</execute></action>
