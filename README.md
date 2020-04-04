@@ -10,6 +10,7 @@ Tested on Ubuntu 19.10
 - emacs
 - suckless-tools
 - conky
+- pavucontrol
 
 ## Installation
 
