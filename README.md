@@ -31,5 +31,5 @@ Tested on Ubuntu 19.10
 
 ## References
 
-[Solarized](https://ethanschoonover.com/solarized/)
-[Conky Varibles](http://conky.sourceforge.net/variables.html)
+- [Solarized](https://ethanschoonover.com/solarized/)
+- [Conky Varibles](http://conky.sourceforge.net/variables.html)
