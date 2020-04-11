@@ -28,8 +28,9 @@ Tested on Ubuntu 19.10
 - network interfaces, find names with `ip addr sh`
 - battery, find at /sys/class/power_supply/BAT*
 - cpu count, find with `lscpu` or `top`
+- update path for feh command in xsessionrc to preferred graphic
 
 ## References
 
 [Solarized](https://ethanschoonover.com/solarized/)
-[Conky Varibles](http://conky.sourceforge.net/variables.html)
+[Conky Documentation](http://conky.sourceforge.net/documentation.html)

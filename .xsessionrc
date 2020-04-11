@@ -1,2 +1,4 @@
 xrdb -merge ~/.Xresources.local
 conky &
+xsetroot -gray
+feh --bg-fill ~/Pictures/Wallpapers/pillars_of_creation.jpg
