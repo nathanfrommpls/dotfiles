@@ -14,6 +14,7 @@ Tested on Ubuntu 19.10
 - suckless-tools
 - conky
 - pavucontrol
+- gmrun
 
 ## Installation
 
