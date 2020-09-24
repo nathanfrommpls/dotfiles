@@ -1,6 +1,6 @@
 # Nate's dotfiles
 
-A collection of dotfiles used to configure a reasonble *lightweight* working environment on Unix-like systems. This is currently linux-centric but should be easily adapted for other systems.
+A collection of dotfiles used to configure a reasonable *lightweight* working environment on Unix-like systems. This is currently linux-centric but should be easily adapted for other systems.
 
 Tested on Ubuntu 19.10
 
